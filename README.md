@@ -8,7 +8,7 @@ Template Ecommerce
 
 ### Visita el proyecto.
 
-[Visita el proyecto](https://citas-consulta.netlify.app/)
+[Visita el proyecto](https://miguelpl32.github.io/ecommerce/)
 
 ![](css/portada-tienda.jpg)
 
