@@ -428,7 +428,7 @@ img {
 
 /* Pagina Contenido Blog */
 .contenido-entrada-blog {
-    width: 60rem;
+    width: 100%;
     margin: 0 auto;
 }
 /* Pagina Galeria */
